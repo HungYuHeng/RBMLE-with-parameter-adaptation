@@ -1,2 +1,1 @@
-# TAC2022-Revisiting-Reward-Biased-Maximum-Likelihood-Estimation-in-Linear-Contextual-Bandits
-Revisiting Reward-Biased Maximum Likelihood Estimation in Linear Contextual Bandits
+# Efficient Exploration via Reward-Biased Maximum Likelihood Estimation]{Efficient Exploration via Reward-Biased Maximum Likelihood Estimation in Linear Contextual Bandits
